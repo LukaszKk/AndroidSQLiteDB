@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Data Base</string>
+    <string name="title">Wstawianie uzytkownika</string>
+    <string name="title2">Dane uzytkownika</string>
+    <string name="title3">Uzytkownicy</string>
+    <string name="studList">Przegladanie listy uzytkownikow</string>
+    <string name="studInsert">Dodanie uzytkownika</string>
+    <string name="exit">Koniec</string>
+    <string name="email">Email</string>
+    <string name="name">Imie</string>
+    <string name="surname">Nazwisko</string>
+    <string name="phone">Telefon</string>
+    <string name="password">Haslo</string>
+    <string name="update">Uaktualnienie uzytkownika</string>
+    <string name="remove">Skasowanie uzytkownika</string>
+    <string name="deleted">_deleted_</string>
+</resources>
